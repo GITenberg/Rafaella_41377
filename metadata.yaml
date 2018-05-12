@@ -1,0 +1,30 @@
+_repo: Rafaella_41377
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41377-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pellico, Silvio
+    birthdate: 1789
+    deathdate: 1854
+    gutenberg_agent_id: '1025'
+    url: http://www.gutenberg.org/2009/agents/1025
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Silvio_Pellico
+    - http://it.wikipedia.org/wiki/Silvio_Pellico
+description: ''
+gutenberg_bookshelf: IT Romanzi
+gutenberg_issued: '2012-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41377'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Italian fiction'
+title: Rafaella
+url: http://www.gutenberg.org/ebooks/41377
